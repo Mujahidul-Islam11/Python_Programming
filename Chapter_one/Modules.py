@@ -14,4 +14,6 @@ print(joke)
 
 """
 This is a multiline comment
+code 1
+code 2
 """
