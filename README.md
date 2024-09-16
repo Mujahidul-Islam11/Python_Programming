@@ -1,7 +1,6 @@
 <h4>Say hello to python</h4>
-```
 print("Hello, World!")
-```
+
 
 <h2>Chapter One</h2>
 <h4><b>#Modules</b></h4>
