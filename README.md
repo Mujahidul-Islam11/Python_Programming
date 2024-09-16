@@ -9,7 +9,7 @@ print("Hello, World!")
 <h4><b>#Pip</b></h4>
 <p>Pip is a package manager for Python, which helps us to install various third-party modules in our system.</p>
 
-<button>Example:</button>
+<button style="background: yellow; border:none;">Example:</button>
 ```
 Pip install flask
 ```
@@ -24,7 +24,7 @@ Pip install flask
 <h4><b>#Comments</b></h4>
 <p>In programming, comments are used to annotate code with explanations or to temporarily disable certain lines of code from being executed. In Python, we use # for single-line comments and ''' or """ for multi-line comments.</p>
 
-<button>Examples:</button>
+<button style="background: yellow; border:none;">Examples:</button>
 ```
 #this is a single line comment
 #this is a single line comment
