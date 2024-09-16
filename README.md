@@ -35,3 +35,63 @@ this is a multiline comment
 """
 ```
 <i>Chapter one practice/source code are added on the Chapter_one folder</i>
+
+<h2>Chapter Two</h2>
+<h4><b>#Variables</b></h4>
+<p>Variables are containers in which we can store various types of data. They represent named memory locations in our program</p>
+
+<button style="background: yellow; border:none;">Examples:</button>
+```
+a = "dinar"
+b = 12
+c = 32.3
+```
+
+<h4><b>#Data types</b></h4>
+<p>Primarily there are following data types in python</p>
+
+<ol>
+<li>Strings</li>
+<li>Integers</li>
+<li>Floating point numbers</li>
+<li>Boolean</li>
+<li>None</li>
+</ol>
+
+<p>Python automatically identifies the data types for us</p>
+
+```
+a = "dinar"    #Identifies a as class <str>
+b = 12         #Identifies b as class <int>
+c = 32.3       #Identifies c as class <float>
+```
+
+<h4><b>#Rules for defining a variable</b></h4>
+
+<ol>
+<li>A variable name can contain alphabets, digits, and underscores</li>
+<li>Variable name can only be start with alphabets and underscores</li>
+<li>Variable name can't have white spaces</li>
+<li>Variable name can't be start with digits</li>
+</ol>
+
+<button style="background: yellow; border:none;">Examples:</button>
+
+```
+name = "dinar"    
+num1 = 12         
+_num2 = 32.3   
+userName = "Mojahidul"     # camel case alternative to white spaces  
+```
+
+<h4><b>#Operators in python</b></h4>
+<p>Following are some of the common operators in python.</p>
+
+<ol>
+<li>Arithmetic operators: +, -, *, /, % etc.</li>
+<li>Assignment operators: =, +=, -= etc.</li>
+<li>Comparison operators: >, =>, <,<=, ==, != etc.</li>
+<li>Logical operators: and, or, not</li>
+</ol>
+
+<i>Chapter two practice/source code are added on the Chapter_two folder</i>
