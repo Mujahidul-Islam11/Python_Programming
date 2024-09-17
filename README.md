@@ -6,12 +6,12 @@ print("Hello, World!")
 <h4><b>#Modules</b></h4>
 <p>In Python, a module is a file containing Python code written by someone else. We can import these modules into our system and use them.</p>
 
-<h4><b>#Pip</b></h4>
-<p>Pip is a package manager for Python, which helps us to install various third-party modules in our system.</p>
+<h4><b>#pip</b></h4>
+<p>pip is a package manager for Python, which helps us to install various third-party modules in our system.</p>
 
 <button style="background: yellow; border:none;">Example:</button>
 ```
-Pip install flask
+pip install flask
 ```
 <h4><b>#Types of modules</b></h4>
 <p>There are two types of modules in Python: built-in modules and external modules.</p>
